@@ -177,5 +177,6 @@ public class Deber_01 {
 		}else if(opcion==3) {
 			System.err.println("Ha perdido, la caperucita se comio las uvas");
 		}
+		ingresoDatos.close();
 	}
 }

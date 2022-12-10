@@ -30,5 +30,6 @@ public class Escalera {
 
         //Método para dibujar la escalera con caracteres
         dibujarEscalera(numEsca);
+        sc.close();
     }
 }

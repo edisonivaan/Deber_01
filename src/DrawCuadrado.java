@@ -48,6 +48,7 @@ public class DrawCuadrado {
 				System.out.print("o ");
 			}
 		}
+		ingresoDatos.close();
 	}
 
 }
